@@ -1,0 +1,5 @@
+Master	主分支
+Develop	开发分支
+Release	测试分支
+Hotfix 	Bug修复分支
+Feature 功能特征分支
